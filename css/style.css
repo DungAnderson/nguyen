@@ -29,10 +29,13 @@ div#beach {
 }
 
 div#video {
+  width: 290px;
+  height: 185px;
   position: absolute;
-  right: 243px;
-  bottom: 200px;
-  background-image: url(https://scontent.fhan5-8.fna.fbcdn.net/v/t1.15752-9/262036853_1048767982702788_3550119470578258532_n.png?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=sHkgt7pvtm8AX914h5s&_nc_oc=AQlcmbEx4Q2B7E6pvpBd0_CJXMS_z9JRfvY0_BzIhFKIBKyE1XBBUvMCwkrgv97Sg2vwQxZ34g58_oO6FtUcfjkv&tn=KxPu_P9X7QzOpPdN&_nc_ht=scontent.fhan5-8.fna&oh=03_AVIESxKEin7CZuUWka_Wlegz000WTkXzMV29H0blNdW_hw&oe=6255BD94);
+  right: 245px;
+  bottom: 100px;
+  background-image: url(https://scontent.fhan5-10.fna.fbcdn.net/v/t1.15752-9/278730114_689727099008365_1472374436690895130_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_ohc=c2AM4boHg44AX_1Ix1j&_nc_ht=scontent.fhan5-10.fna&oh=03_AVIUa-PWoPuWUzyE_W2_dK83t2lZsFtmqX0LZZFvYo_z_A&oe=628DB832);
+  /* background-image: url(https://i.pinimg.com/originals/0f/bb/56/0fbb5686b441c1c15e938be5090b5012.jpg); */
   background-size: cover;
   overflow: hidden;
 }
@@ -40,6 +43,7 @@ div#video {
 div#video iframe{
   width: 255px;
   height: 155px;
+  /* background-image: url(https://i.pinimg.com/originals/0f/bb/56/0fbb5686b441c1c15e938be5090b5012.jpg); */
 }
 
 #people {
@@ -450,10 +454,10 @@ div#sea {
     bottom: 235px;
   }
 
-  div#video iframe {
+  /* div#video iframe {
     width: 295px;
     height: 185px;
-  }
+  } */
   .moon {
     right: 230px;
   }
